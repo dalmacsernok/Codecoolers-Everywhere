@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Codecool.CodecoolersEverywhere</name>
+    </assembly>
+    <members>
+        <member name="F:Codecool.CodeCoolersEverywhere.DbGenerator.DbGenerator.CODECOOLERNUM">
+            <summary>
+            CODECOOLERNUM can be limited in case of performance issues. In case you still run in
+            performance problems you can limit the number of schools per Codecooler, reducing the 
+            size of switch table.
+            </summary>
+        </member>
+        <member name="T:Codecool.CodeCoolersEverywhere.Program">
+            <summary>
+            This is the main class of your program which contains Main method
+            </summary>
+        </member>
+        <member name="M:Codecool.CodeCoolersEverywhere.Program.Main(System.String[])">
+            <summary>
+            This is the entry point of your program.
+            </summary>
+            <param name="args">Command line arguments.</param>
+        </member>
+    </members>
+</doc>
